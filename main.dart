@@ -8,7 +8,8 @@ class MyCalculator extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: '',
+      title: 'Calculator',
+      debugShowCheckedModeBanner: false,
       home: Calculator(),
     );
   }
