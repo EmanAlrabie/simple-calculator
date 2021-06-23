@@ -1,2 +1,2 @@
 # simple-calculator
-Calculator application using flutter.
+This project aims to build calculator by using Dart programming language.
